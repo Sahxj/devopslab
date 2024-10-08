@@ -1,2 +1,2 @@
 print("helloo")
-print("banglore")
+print("mysore")
